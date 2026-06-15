@@ -27,6 +27,7 @@ LOCAL_STATIC_LIBRARIES := libdobby
 LOCAL_C_INCLUDES += $(LOCAL_PATH)
 LOCAL_C_INCLUDES += $(LOCAL_PATH)/ImGui
 LOCAL_C_INCLUDES += $(LOCAL_PATH)/ImGui/backends
+LOCAL_C_INCLUDES += $(LOCAL_PATH)/Includes
 
 # Here you add the cpp file to compile
 LOCAL_SRC_FILES := Main.cpp \
