@@ -17,7 +17,7 @@
 #include "Includes/obfuscate.h"
 #include "Includes/Utils.h"
 #include "KittyMemory/MemoryPatch.h"
-#include "includes/Dobby/dobby.h"
+#include "Includes/Dobby/dobby.h"
 #include "Data/Fonts/Roboto-Regular.h"
 #include "Includes/Macros.h"
 #include "ImGui/imgui.h"
