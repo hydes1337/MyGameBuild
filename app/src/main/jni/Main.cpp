@@ -36,7 +36,7 @@
 #include "Chams/Chams.h"
 #include "Includes/monoString.h"
 #include "oxorany/oxorany_include.h"
-#include "ImGui/font/verdana.h"
+#include "ImGui/Font/verdana.h"
 #include "ByNameModding/BNM.hpp"
 #include "Includes/fake_dlfcn.h"
 
